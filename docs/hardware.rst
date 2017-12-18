@@ -138,7 +138,7 @@ needs a two-factor authenticator. We currently support two options for
 two-factor authentication:
 
 * Your existing smartphone with an app that computes TOTP codes
-  (e.g. `Google Authenticator <https://support.google.com/accounts/answer/1066447?hl=en>`__).
+  (e.g. FreeOTP `for Android <https://play.google.com/store/apps/details?id=org.fedorahosted.freeotp>`__ and `for iOS <https://itunes.apple.com/us/app/freeotp-authenticator/id872559395>`__).
 
 * A dedicated hardware dongle that computes HOTP codes (e.g. a
   `YubiKey <https://www.yubico.com/products/yubikey-hardware/yubikey/>`__).
